@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Traffic Light Control</title>
+</head>
+
+<body>
+  <h1>Traffic Light Control</h1>
+  <p>Current Mode: {{ current_mode }}</p>
+
+  <form method="POST" action="/control">
+    <button name="mode" value="SEQUENCE">Start Sequence</button>
+    <button name="mode" value="STOP">Stop</button>
+
+
+  </form>
+</body>
+
+</html>
