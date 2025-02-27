@@ -14,9 +14,9 @@ GPIO.setmode(GPIO.BCM)
 
 #configure pins
 
-green = 0
-yellow = 2
-red = 3
+green = 15
+yellow = 13
+red = 11
 
 #Configure pins as outputs
 GPIO.setup(green, GPIO.OUT)
