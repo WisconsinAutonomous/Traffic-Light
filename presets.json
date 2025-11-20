@@ -1,0 +1,26 @@
+{
+  "Default": {
+    "red": 5.0,
+    "yellow": 3.0,
+    "green": 5.0,
+    "flash": 0.5
+  },
+  "School": {
+    "red": 30.0,
+    "yellow": 15.0,
+    "green": 30.0,
+    "flash": 0.5
+  },
+  "Test1": {
+    "red": 5.0,
+    "yellow": 3.0,
+    "green": 5.0,
+    "flash": 0.5
+  },
+  "Test2": {
+    "red": 5.0,
+    "yellow": 3.0,
+    "green": 5.0,
+    "flash": 0.5
+  }
+}
